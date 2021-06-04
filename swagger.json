@@ -24,6 +24,7 @@
     "/addUser":{
         "post":{
             "tags":["Users"],
+            "summary":"Create New User in the  system",
             "description":"create new user in the ecosystem",
             "parameters":[
                 {
